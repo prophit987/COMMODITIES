@@ -1,17 +1,19 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: DONTIA MOORE
+about: Asset verification
 
 ---
 
 **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+i always stop when i cant [verify securities by symbol and current location]
 
 **Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+Validate asset value and liquidate all
 
 **Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+liquidate and transfer assets to brokerage account.
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+asset_allocation/.circleci/config.yml
+
+
