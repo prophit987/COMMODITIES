@@ -5,7 +5,8 @@ about: Asset verification
 ---
 
 **Is your feature request related to a problem? Please describe.**
-i always stop when i cant [verify securities by symbol and current location]
+
+_[verify securities by symbol and current location]
 
 **Describe the solution you'd like**
 Validate asset value and liquidate all
