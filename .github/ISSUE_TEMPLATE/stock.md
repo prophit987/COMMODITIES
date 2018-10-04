@@ -23,3 +23,4 @@ immidiate_automatic excecution
 all other- assets/securities/foreign currency/and-or any other instument into my - deversified portfolio
 reinvesting the dividends..**Additional context**
 locate and satisfy all other debt_or judments/leans_orders_outstanding debtin the name of Dontia Moore Sr and restore cr3edit.
+.github/ISSUE_TEMPLATE/stock.md
